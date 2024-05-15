@@ -1,4 +1,10 @@
-### Hi there 👋
+### Greetings, i'm Luggeri
+
+- Currently studying JavaScript
+- Alura?
+ 
+### Contact : mailbox
+caesarluggeri@gmail.com
 
 <!--
 **LuggerC4/LuggerC4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
